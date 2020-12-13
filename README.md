@@ -6,9 +6,7 @@
 - 🚀 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play basketball 🏀 and brew craft beer 🍺 
 
-### Spotify Playing 🎧
-
-[<img src="https://novatorem.mrchenliang.vercel.app/api/spotify-playing" alt="chenliang Spotify Playing" width="350" />](https://open.spotify.com/user/12168690942)
+### [Spotify][spotify] 🎧
 
 ### Connect with me:
 
@@ -34,3 +32,4 @@
 [instagram]: https://instagram.com/mr_chenliang
 [linkedin]: https://linkedin.com/in/mrchenliang
 [medium]: https://medium.com/in/@chen.liang
+[spotify]: https://open.spotify.com/user/12168690942
