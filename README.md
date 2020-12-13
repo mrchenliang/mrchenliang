@@ -7,8 +7,8 @@
 - ⚡ Fun fact: I love to play basketball 🏀 and brew craft beer 🍺 
 
 ### Spotify Playing 🎧
-[![Spotify](https://mrchenliang.vercel.app/api/spotify)](https://open.spotify.com/user/12168690942)
-[<img src="https://mrchenliang.vercel.app/api/spotify-playing" alt="Chen's Spotify Playing" width="350" />](https://open.spotify.com/user/12168690942)
+[![Spotify](https://spotify-now-playing.mrchenliang.vercel.app/api/spotify)](https://open.spotify.com/user/12168690942)
+[<img src="https://spotify-now-playing.mrchenliang.vercel.app/api/spotify-playing" alt="Chen's Spotify Playing" width="350" />](https://open.spotify.com/user/12168690942)
 
 ### Connect with me:
 
