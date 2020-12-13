@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-mrchenliang.vercel.app/api/spotify-playing" alt="chenliang Spotify Playing" width="350" />](https://open.spotify.com/user/12168690942)
+[<img src="https://novatorem.mrchenliang.vercel.app/api/spotify-playing" alt="chenliang Spotify Playing" width="350" />](https://open.spotify.com/user/12168690942)
 
 ### Connect with me:
 
