@@ -1,4 +1,4 @@
-### Hi there, I'm Chen - aka [codeSTACKr][website] 👋
+### Hi there, I'm [Chen][website] 👋
 
 ## I'm a Software Engineer, Full Stack Developer, and Mentor!
 
@@ -25,7 +25,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="mrchenliang's GitHub Stats" src="https://github-readme-stats.mrchenliang.vercel.app/api?username=mrchenliang&show_icons=true&hide_border=true" />
+  <img align="left" alt="mrchenliang's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mrchenliang&show_icons=true&hide_border=true" />
 
 </details>
 
