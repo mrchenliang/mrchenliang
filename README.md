@@ -1,10 +1,10 @@
 ### Hi there, I'm [Chen][website] 👋
 
-## I'm a Full Stack Software Engineer and Mentor!
+## I'm a Senior Full Stack Software Engineer and Mentor!
 
 - 🌱 I’m currently learning mobile development, native and react native 📱
 - 🚀 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play basketball 🏀 and brew craft beer 🍺 
+- ⚡ Fun fact: I love to play basketball 🏀 and ride a motorbike 🏍 
 
 ### Spotify Playing 🎧
 [<img src="https://spotify-now-playing.mrchenliang.vercel.app/api/spotify" alt="Chen's Spotify Playing" width="350" />](https://open.spotify.com/user/12168690942)
