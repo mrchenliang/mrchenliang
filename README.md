@@ -2,7 +2,7 @@
 
 ## I'm a Senior Full Stack Software Engineer and Mentor!
 
-### ⚡ Fun fact: I love to play basketball 🏀, skiing in the mountains 🎿 and ride a motorbike 🏍 
+### ⚡ Fun fact: I love to play basketball 🏀, ski in the mountains 🎿 and cruise in a motorbike 🏍 
 
 ### Spotify Playing 🎧
 [<img src="https://spotify-now-playing.mrchenliang.vercel.app/api/spotify" alt="Chen's Spotify Playing" width="350" />](https://open.spotify.com/user/12168690942)
