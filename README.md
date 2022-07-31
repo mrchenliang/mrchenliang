@@ -1,4 +1,4 @@
-### Hi there, I'm [Chen][website] 👋
+# Hi there, I'm [Chen][website] 👋
 
 ## I'm a Senior Full Stack Software Engineer and Mentor!
 
@@ -26,7 +26,5 @@
 
 [website]: https://chenliang.ca
 [twitter]: https://twitter.com/mr_chenliang
-[instagram]: https://instagram.com/mr_chenliang
 [linkedin]: https://linkedin.com/in/mrchenliang
-[medium]: https://medium.com/in/@chen.liang
 [spotify]: https://open.spotify.com/user/12168690942
