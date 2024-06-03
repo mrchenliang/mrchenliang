@@ -1,6 +1,6 @@
 # Hi there, I'm [Chen][website] 👋
 
-## I'm a Senior Full Stack Software Engineer and Mentor!
+## I'm a Senior Software Engineer, Sessional Instructor and Career Mentor!
 
 ### ⚡ Fun fact: I love to play basketball 🏀, downhill ski 🎿, and cruise on my motorbike 🏍 
 
