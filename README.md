@@ -5,7 +5,7 @@
 ### ⚡ Fun fact: I love to play basketball 🏀, downhill ski 🎿, and cruise on my motorbike 🏍 
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-now-playing.mrchenliang.vercel.app/api/spotify" alt="Chen's Spotify Playing" width="350" />][spotify]
+[<img src="https://spotify-now-playing-chenliang.vercel.app/api/spotify" alt="Chen's Spotify Playing" width="350" />][spotify]
 
 ### Connect with me:
 
