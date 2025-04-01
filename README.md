@@ -2,7 +2,7 @@
 
 ## I'm a Senior Software Engineer, Indie Hacker, Sessional Instructor and Career Mentor!
 
-### ⚡ Fun fact: I love to play basketball 🏀, downhill ski 🎿, and cruise on my motorbike 🏍 
+### ⚡ Fun fact: I love playing basketball 🏀, snowboarding 🏂, and cruising on my motorbike 🏍 
 
 ### Spotify Playing 🎧
 [<img src="https://spotify-now-playing-chenliang.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Chen's Spotify Playing" width="350" />][spotify]
