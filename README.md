@@ -14,12 +14,14 @@
 <br />
 
 ---
+<!--
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="mrchenliang's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mrchenliang&show_icons=true&hide_border=true" />
+ <img align="left" alt="mrchenliang's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mrchenliang&show_icons=true&hide_border=true" />
 
 </details>
+-->
 
 [website]: https://chenliang.ca
 [x]: https://x.com/mr_chenliang
