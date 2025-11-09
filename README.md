@@ -7,13 +7,12 @@
 ### Spotify Playing 🎧
 [<img src="https://spotify-now-playing-chenliang.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Chen's Spotify Playing" width="350" />][spotify]
 
+---
 [![Website](https://img.shields.io/badge/website-FFFFFF?style=for-the-badge&logo=About.me&logoColor=black)][website]
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)][x]
 <!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin] -->
-<br />
-<br />
 
----
+
 <!--
 <details>
   <summary>:zap: GitHub Stats</summary>
