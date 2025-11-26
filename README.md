@@ -1,6 +1,6 @@
 # Hi there, I'm [Chen][website] 👋
 
-## I'm a Lead Software Engineer, Sessional Instructor and Career Mentor!
+## I'm a Senior Software Engineer, Sessional Instructor and Career Mentor!
 
 ### ⚡ Fun fact: I love playing basketball 🏀, snowboarding 🏂, and cruising on my motorbike 🏍 
 
