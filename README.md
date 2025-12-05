@@ -1,6 +1,6 @@
-# hello, I'm [chen][website] 👋
+# hello, i'm [chen][website] 👋
 
-## I'm a senior software engineer, sessional instructor and career mentor!
+## i'm a senior software engineer, sessional instructor and career mentor!
 
 ### ⚡ fun fact: I love playing basketball 🏀, snowboarding 🏂, and powerlifting 🏋️‍♀️
 
