@@ -1,10 +1,10 @@
-# Hi there, I'm [Chen][website] 👋
+# hello, I'm [chen][website] 👋
 
-## I'm a Senior Software Engineer, Sessional Instructor and Career Mentor!
+## I'm a senior software engineer, sessional instructor and career mentor!
 
-### ⚡ Fun fact: I love playing basketball 🏀, snowboarding 🏂, and cruising on my motorbike 🏍 
+### ⚡ fun fact: I love playing basketball 🏀, snowboarding 🏂, and powerlifting 🏋️‍♀️
 
-### Spotify Playing 🎧
+### spotify now 🎧
 [<img src="https://spotify-now-playing-chenliang.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Chen's Spotify Playing" width="350" />][spotify]
 
 ---
