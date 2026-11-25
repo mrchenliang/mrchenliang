@@ -1,8 +1,8 @@
 # hello, i'm [chen][website] 👋
 
-## i'm a senior software engineer, sessional instructor and career mentor!
+### software engineer · educator · entrepreneur
 
-### ⚡ fun facts
+### fun facts
 - 👨‍🏫 sessional instructor & career mentor
 - ⚡ building things, solving problems & always learning
 - 🏀 basketball · 🏂 snowboarding · 🏋️ powerlifting
